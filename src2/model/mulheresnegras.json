@@ -1,0 +1,62 @@
+[
+    {
+        "Nome": "Conceição Evaristo",
+        "Categoria": "Escritora",
+        "Nacionalidade": "Brasileira"
+    },
+
+    {
+        "Nome": "Nina Simone",
+        "Categoria": "Cantora",
+        "Nacionalidade": "Estrangeira"
+    },
+
+    {
+        "Nome": "Viola Davis",
+        "Categoria": "Atriz" ,
+        "Nacionalidade": "Estrangeira"
+    },
+
+    {
+        "Nome": "Serena Williams",
+        "Categoria": "Atleta Tenista",
+        "Nacionalidade": "Estrangeira"
+    },
+
+    {
+        "Nome": "Iza",
+        "Categoria": "Cantora",
+        "Nacionalidade": "Brasileira"
+    },
+
+    {
+        "Nome": "Djamina Ribeiro",
+        "Categoria": "Escritora",
+        "Nacionalidade": "Brasileira"
+    },
+
+    {
+        "Nome": "Taís Araújo",
+        "Categoria": "Atriz",
+        "Nacionalidade": "Brasileira"
+    },
+
+    {
+        "Nome": "Carolina de Jesus",
+        "Categoria": "Escritora",
+        "Nacionalidade": "Brasileira"
+    },
+
+    {
+        "Nome": "Michelle Obama",
+        "Categoria": "Advogada, Escritora e 46º Primeira Dama dos EUA",
+        "Nacionalidade": "Estrangeira"
+    },
+
+    {
+        "Nome": "Maju Coutinho",
+        "Categoria": "Jornalista",
+        "Nacionalidade": "Brasileira"
+    }
+    
+]
